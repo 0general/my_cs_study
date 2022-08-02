@@ -20,3 +20,4 @@ b# my_cs_study
 
 ---
 # 22.07.29 - start
+# 22.08.02 - [Naver 1차 면접 대비 스터디](https://www.notion.so/35a9beeea3504f26b6563519e689d725) 시작
